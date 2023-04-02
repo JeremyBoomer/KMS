@@ -1,0 +1,2 @@
+first_sentence = "Hello world..."
+print (first_sentence)
